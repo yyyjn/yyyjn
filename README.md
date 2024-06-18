@@ -9,4 +9,7 @@ I'm Junnan Yin. A graduate student in the Institute of Information Engineering, 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514866/8786/fb-heart.png?1643514866" width="20"/>&nbsp; My research interests lie in the realms of AI for Security and Security for AI.  <!-- Currently, I'm bury mysely in Malware Analysis. -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yyyjn&show_icons=true&include_all_commits=true)](https://github.com/yyyjn/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/yyyjn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyyjn&layout=compact)](https://github.com/yyyjn/github-readme-stats)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yyyjn&repo=yyyjn)
+
