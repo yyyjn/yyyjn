@@ -28,8 +28,6 @@ I'm Junnan Yin. A graduate student in the Institute of Information Engineering, 
 </p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=yyyjn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=yyyjn&layout=compact&theme=buefy&hide_border=true" /></a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Coming98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Coming98&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
