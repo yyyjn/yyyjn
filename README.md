@@ -5,8 +5,11 @@ I'm Junnan Yin. A graduate student in the Institute of Information Engineering, 
 
 [About me](mailto:yinjunnan1@gmail.com):
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643511285/48307/china.gif?1643511285" width="20"/>&nbsp; From China, living in China.
+- <img src="https://emojis.slackmojis.com/emojis/images/1643511285/48307/china.gif?1643511285" width="20"/>&nbsp; From China, living in BeiJing.
 - <img src="https://emojis.slackmojis.com/emojis/images/1643514866/8786/fb-heart.png?1643514866" width="20"/>&nbsp; My research interests lie in the realms of AI for Security and Security for AI.  <!-- Currently, I'm bury mysely in Malware Analysis. -->
+- <img src="https://emojis.slackmojis.com/emojis/images/1650008136/57723/learning.png?1650008136" width="20"/>&nbsp; Welcome to my [homepage](https://sites.google.com/view/yyyjn) and [blog](https://github.com/yyyjn).
+- <img src="https://emojis.slackmojis.com/emojis/images/1651006360/58240/gitbook.png?1651006360" width="20"/>&nbsp; I am currently pursuing a Ph.D. position for Fall 2024. If given an opportunity, I will do my best to not let you down and deliver the best results!~~ I've found a dynamic team. Stay tuned until 2024 Fall for more info here!
+
 
 **I have coded with ...**
 <p>
